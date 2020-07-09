@@ -20,6 +20,7 @@ The program peforms the function the user selects and stores the information in 
 
 ## The data 
 The idea is that the user enters data that is relevant to them. Data is entered into the 'books' table by using the 'Enter book' or 'Update book' functions.
+The for each book, the user must enter the title of the book, the author name, the quantity of books available in store and a unique identification number. 
 
 ## Author
 Amy Marais
