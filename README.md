@@ -26,4 +26,4 @@ The for each book, the user must enter the title of the book, the author name, t
 Amy Marais
 
 ## Acknowledgements
-The program was written as a task for a Hyperiondev data science bootcamp, and my mentor, Daniel Cornelius, helped me refine th program. 
+The program was written as a task for a Hyperiondev data science bootcamp, and my mentor, Daniel Cornelius, helped me refine the program. 
